@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch CCSifter",
+            "request": "launch",
+            "mainClass": "CCSifter",
+            "projectName": "CreditCardStealer_6ff30af4"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
